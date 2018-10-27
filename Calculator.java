@@ -1,3 +1,4 @@
+/* This is the comment added post first commit */
 package simplejavacalculator;
 
 import static java.lang.Math.log;
